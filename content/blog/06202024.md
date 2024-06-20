@@ -1,0 +1,117 @@
++++
+title = "learning the ropes"
+type = "today"
+date = "2024-06-20"
+description = "hopefully today's post"
+tags = [
+    "hugo",
+    "docker",
+    "website",
+    "chatGPT",
+]
++++
+
+"learning the ropes" is very much mentally associated in my brain with "day 2". why? in [swords and sandals II: emperor's reign](https://youtu.be/hq1OiFKlfvg?t=282), every day has a title associated with it. day 1 is "glorious freedom". day 2 is "learning the ropes." so, this is today's title.
+
+i mentioned last time that i wanted to at least roughly jot down the steps it took to get this webserver up and running, so i'll use this time to recall them. perhaps out of order, but hopefully roughly in order. i'm on windows, btw. i imagine this post will be quite long, so bear with me.
+
+---
+
+let's begin:
+
+0. enable developer mode on windows.
+    * assuming you can't just enable developer mode in your settings menu because it's grayed out, you will need to type gpedit into your search bar to edit group policies. 
+    * from there, navigate to "Computer Configuration > Administrative Templates > Windows Components > App Package Deployment". 
+    * enable two of these items: "Allows development of Windows Store Apps and installing them from an integrated development environment (IDE)", and "Allow all trusted apps to install".
+    * reboot your computer. you should be turn on developer mode in settings, or it may already be enabled.
+1. install [PowerShell](https://learn.microsoft.com/en-us/powershell/scripting/install/installing-powershell-on-windows?view=powershell-7.4).
+    * yes, PowerShell is different from Windows PowerShell, the one that was preinstalled on your computer.
+    * there's a few winget commands on that page that tell you how to install it. you will need it to run commands.
+2. install [Docker Desktop](https://docs.docker.com/engine/install/). 
+    * my goal was to be able to run this website, a Hugo website, off of a docker container, so naturally i had to install docker.
+3. install [chocolatey](https://chocolatey.org/install), the package manager for windows. 
+    * you will need it to install hugo, and git, and probably docker CLI, if it somehow didn't come with the desktop installation.
+4. open an administrative PowerShell and `cd` its location to where you want to build your website.
+5. assuming "docker" is a recognized command in your PowerShell instance, run the following command: 
+
+```
+docker run --rm -it -v ${PWD}:/src klakegg/hugo:0.107.0-ext-alpine new site mysite
+```
+
+* i chose to use hugo's 0.107.0-ext-alpine image. you can use the newest one if you'd like. 
+    * it was just the one i saw in a tutorial blog, really i should've probably used the newest image.
+* this command will create a hugo site called "mysite" in the directory that your PowerShell instance is in. 
+    * if you'd like to change the name of the folder, you can do so in the command or after.
+6. create a textfile and change it to be called "Dockerfile", with no extension. then, add the following contents to it: 
+
+```docker
+# Use the Hugo extended image
+FROM klakegg/hugo:0.107.0-ext-alpine
+
+# Set the working directory in the container
+WORKDIR /usr/share/blog
+
+# Copy your site content into the container
+COPY ./mysite /usr/share/blog
+
+# Expose the default Hugo port
+EXPOSE 1313
+
+# Run Hugo server
+CMD ["server", "--bind", "0.0.0.0"]
+``` 
+and ensure you change the "./mysite" path in the `COPY` command in the Dockerfile to reflect the name of the folder in your website directory.
+
+7. run the following command: `docker build -t myhugo .`
+    * this will build a Docker image named "myhugo" from the Dockerfile we just made.
+
+8. run the following command: `docker run -p 1313:1313 myhugo`
+    * this will start a Docker container from your "myhugo" image, mapping port 1313 of your container to port 1313 of your machine, allowing your website to be accessible via `http://localhost:1313`.
+    * in your website directory, you may have to change the name of `hugo.toml` to `config.toml`. idk why, but mine was picky.
+    * you may run into a wall here where docker says it can't find a "config" file so it can't run your site. ask [chatGPT](https://chat.openai.com) about this, i think i had identical issues and it answered my questions but i can't recall how the solution went.
+
+congratulations! you have survived up to this point and hopefully have a beautiful "Page not found" showing when you go to `http://localhost:1313`.
+
+at this point, you can install a theme and shamelessly repurpose website structures as you like!
+
+additionally, instead of running the `docker run` command from step 8, this is where i began using this command instead: 
+
+`docker run -p 1313:1313 -v ${PWD}/gooberverse:/usr/share/blog --name gooberverse-container hugo-gooberverse`
+
+this command creates a container using the content stored at a folder i have called `/gooberverse`, names the container "gooberverse-container" and uses the image called "hugo-gooberverse." this assumed you also used a command like `docker build -t hugo-gooberverse .` instead of "myhugo", or whatever you called your hugo image.
+
+once you run this, you can open docker desktop and hit play and stop and restart on your shiny new container as you make updates and changes to the site. a smarter way to handle changes is probably using git repositories, but fuck that for now.
+
+to continue this tutorial, let's go through what i did to copy jan's site and theme:
+
+9. use git to grab the [hugo-bearblog theme](https://github.com/janraasch/hugo-bearblog/) with the following commands in your administrative PowerShell window:
+    * you may have to install git using chocolatey if you can't run `git init`. 
+
+```Powershell
+cd mysite
+git init
+git submodule add https://github.com/janraasch/hugo-bearblog.git themes/hugo-bearblog
+``` 
+
+10. in the new themes/hugo-bearblog folder you just added, there should be an /exampleSite/ folder.
+    * take the contents of that folder and merge them with the contents of your root website folder (/mysite).
+
+11. restart your docker container.
+    * you should see a hugo bearblog website identical to [jan's demo website](https://janraasch.github.io/hugo-bearblog/). if not... i'm sorry. my setup could be jank, and i'll be the first to admit that.
+
+12. go to [jan's personal website repo](https://github.com/janraasch/janraaschcom/tree/master).
+    * feel free to download the whole repo locally, i found it useful.
+    * take the `/content` folder, the `/layouts` folder, and the `/static` folder and merge them with your own website directory.
+
+13. restart your docker container.
+    * your website should now be a mixture of the bearblog site and jan's personal website.
+    * i.e., it should have the "blog" functionality part of the bearblog site with the style of jan's site (the code of which is mostly stored in `/layouts`).
+
+congratulations again! putz around with the .html files in `/layouts` (particularly `nav.html`, `style.html`, and `footer.html`, as well as the `/content` folder to actually begin writing stuff.
+
+if things didn't work out great, i implore you to use [chatGPT](https://chat.openai.com) to guide you through any questions you may have. it is literally how i got this far.
+
+i hope this tutorial helped at least a little bit. if not functionally, then ideologically/getting the plan of action somewhat clearer. at the time of writing this, i still have yet to bind the local docker container to a domain to expose this website to the internet... but, well, we'll see how things go when we get there.
+
+thank you for reading today's post. i implore you to not be afraid of things before they've even begun, and to also experiment with seeing how things go when you get there.\
+( •̀ᴗ•́ )و ̑̑
