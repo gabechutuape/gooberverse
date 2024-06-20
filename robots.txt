@@ -1,0 +1,2 @@
+User-Agent: *
+Sitemap: https://gabechutuape.github.io/gooberverse/sitemap.xml
