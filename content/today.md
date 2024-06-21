@@ -7,7 +7,7 @@ menu:
 type: today
 date: 2024-06-20
 description: hopefully today's post
-tags = [
+tags: [
     "hugo",
     "docker",
     "website",
