@@ -10,7 +10,7 @@ description: what's going on right now?
 
 # hello!
 
-right now i am
+right now, i am
 * living in Illinois and enjoying the company of local, good friends
 * writing software for [infrared cameras](https://www.episensors.us/)
 * playing Disco Elysium, Final Fantasy 7 Remake, and Street Fighter 6
