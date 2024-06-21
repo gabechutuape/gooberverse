@@ -1,9 +1,12 @@
-+++
-title = "right now"
-name = "now"
-type = "now"
-description = "what's going on right now?"
-+++
+---
+title: right now
+menu:
+    main:
+        title: right now
+        name: now
+type = now
+description = what's going on right now?
+---
 
 # hello!
 

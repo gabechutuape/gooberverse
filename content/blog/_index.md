@@ -1,4 +1,7 @@
-+++
-title = "blog"
-name = "blog"
-+++
+---
+title: blog
+menu:
+    main:
+        title: blog
+        name: blog
+---

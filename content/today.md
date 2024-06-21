@@ -1,16 +1,19 @@
-+++
-title = "learning the ropes"
-name = "today"
-type = "today"
-date = "2024-06-20"
-description = "hopefully today's post"
+---
+title: learning the ropes
+menu:
+    main:
+        title: learning the ropes
+        name: today
+type: today
+date: 2024-06-20
+description: hopefully today's post
 tags = [
     "hugo",
     "docker",
     "website",
     "chatGPT",
 ]
-+++
+---
 
 "learning the ropes" is very much mentally associated in my brain with "day 2". why? in [swords and sandals II: emperor's reign](https://youtu.be/hq1OiFKlfvg?t=282), every day has a title associated with it. day 1 is "glorious freedom". day 2 is "learning the ropes." so, this is today's title.
 
