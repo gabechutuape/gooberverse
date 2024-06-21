@@ -8,7 +8,7 @@ type: now
 description: what's going on right now?
 ---
 
-# hello!
+# what am i up to?
 
 right now, i am
 * living in Illinois and enjoying the company of local, good friends
