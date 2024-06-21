@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Docker on (´_ゝ`) the gooberverse</title>
+    <link>http://localhost:1313/gooberverse/blog/docker/</link>
+    <description>Recent content in Docker on (´_ゝ`) the gooberverse</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <copyright>Copyright © 2024, Gabe Chutuape.</copyright>
+    <lastBuildDate>Thu, 20 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/gooberverse/blog/docker/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>learning the ropes</title>
+      <link>http://localhost:1313/gooberverse/learning-the-ropes/</link>
+      <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/gooberverse/learning-the-ropes/</guid>
+      <description>&amp;ldquo;learning the ropes&amp;rdquo; is very much mentally associated in my brain with &amp;ldquo;day 2&amp;rdquo;. why? in swords and sandals II: emperor&amp;rsquo;s reign, every day has a title associated with it. day 1 is &amp;ldquo;glorious freedom&amp;rdquo;. day 2 is &amp;ldquo;learning the ropes.&amp;rdquo; so, this is today&amp;rsquo;s title.&#xA;i mentioned last time that i wanted to at least roughly jot down the steps it took to get this webserver up and running, so i&amp;rsquo;ll use this time to recall them.</description>
+    </item>
+  </channel>
+</rss>
