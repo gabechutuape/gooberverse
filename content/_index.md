@@ -3,6 +3,7 @@
 # opengraph structured data template on the home page.
 # See https://ogp.me/ and https://gohugo.io/templates/internal#open-graph.
 title = "Gooberverse"
+name = "home"
 +++
 
 # (almost) daily posts about things and such

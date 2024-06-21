@@ -1,5 +1,6 @@
 +++
 title = "right now"
+name = "now"
 type = "now"
 description = "what's going on right now?"
 +++

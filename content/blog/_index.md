@@ -1,3 +1,4 @@
 +++
 title = "blog"
+name = "blog"
 +++
