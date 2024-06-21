@@ -5,6 +5,7 @@ menu:
         title: learning the ropes
         name: today
 type: today
+section: blog
 date: 2024-06-20
 description: hopefully today's post
 tags: [
