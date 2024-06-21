@@ -17,42 +17,61 @@ tags: [
 
 if you're unfamiliar with what "mashing" is, i'll try to explain.
 
-"mashing" is when there is a way to reach a logical, correct solution, but instead of doing that, you try a thing that probably isn't going to work and is mostly a guess until you either give up or it miraculously works.
+"mashing" is when there is a logical way to reach a solution,\
+but instead of going on that path,\
+you guess a solution until you either give up or it miraculously works.
 
-in the context of fighting games, when you get knocked down to the ground, you have to respond to a multitude of possible attacks from the opponent: overhead? low? grab? shimmy? they're all, in your mashing mindset, equally likely.
+in the context of fighting games, when you get knocked down to the ground,\
+you have to respond to a multitude of possible attacks from the opponent:\
+overhead? low? grab? shimmy? drive impact?\
+they're all, in your mashing mindset, equally likely.
 
-so, as a hail mary and not wanting to waste any brain power thinking about the most likely decision, [you input DP](https://glossary.infil.net/?t=Dragon%20Punch) and get blocked.
+so, not wanting to waste any precious brain power,\
+[you input DP](https://glossary.infil.net/?t=Dragon%20Punch) and get blocked and punished for your foolishness.
 
 *but imagine if it had worked?*
 
 mashing doesn't only apply to fighting games.
 
-if you're trying to log into a website you rarely use with a password you barely remember but pridefully think, "i think i know the password...", only to try and fail several times?
+if you're trying to log onto a website you rarely use\
+with a password you barely remember\
+but pridefully say to yourself, "i think i know the password...",\
+only to try and fail several times?
 
 **this is "mashing."**
 
-the high that you get from when mashing works is incredible. i think this is why people continue to mash. 
+the high that you get when mashing works is incredible.\
+i think this is why people continue to mash. 
 
-we're all a little motivated by beating the odds and gambling, even if we don't want to admit it.
+we're all a little motivated by beating the odds and gambling,\
+even if we don't want to admit it.
 
 today, i mashed in a few different ways: 
-* i was mashing a gstreamer plugin writing process using [chatGPT](https://chat.openai.com), knowing **damn well** that chatGPT usually can't make raw code out of thin air that actually works for something as complex as i was asking it to do, 
-* and i was mashing solutions on how to get the header on the 'today' page to properly display the title and the date by modifying stuff in places that *seemed* like they made sense, instead of stopping to think about what i was doing and make a plan.
-    * i ended up fixing it by making the plan instead of mashing, unsurprisingly.
+* i mashed while asking [chatGPT](https://chat.openai.com) to write code that was far too complex to handle 
+* and i mashed trying to figure out how to get the header on this page to show properly
+    * i ended up fixing it by making a specific format .html for this type of page.
 
-mashing is a dangerous habit. it's easy to get into, and it's hard to get out of.
+mashing is a dangerous habit.\
+it's easy to get into, and it's hard to get out of.
 
-if you find yourself mashing in your day-to-day life, stop to consider: "is this really the best way to go about this?"
+if you find yourself mashing in your day-to-day life,\
+stop to consider: "is this really the best way to go about this?"
 
-for tasks like my gstreamer plugin, this might not work, because the mental overhead of learning how to do it yourself is tougher than continuing to mash.
+for tasks like my gstreamer plugin, this might not work,\
+because the mental overhead of learning the right way is tougher than just mashing.
 
-but for tasks like a forgotten password? maybe instead of spending 10 minutes guessing, you can spend 3 minutes just **resetting it**.
+but for tasks like a forgotten password?\
+maybe instead of spending 10 minutes guessing,\
+you can spend 3 minutes **just resetting it**.
 
-this post is not to demonize mashing. [it's a valid, if not crude, solution-finding method.](https://www.youtube.com/watch?v=l_3z9ASK6F0)
+this post is not to demonize mashing.\
+[it's a valid, if not crude, solution-finding method.](https://www.youtube.com/watch?v=l_3z9ASK6F0)
 
 but sometimes, as a wise man once said:
 
 > "This isn't the time to use that!\
 > *-Professor Oak*
 
-thank you for reading today's post. let's all try to balance mashing and not-mashing more often. i look forward to seeing the results.
+thank you for reading today's post.\
+let's all try to balance mashing and not-mashing more often.\
+while we're at it, mashed potatoes could be nice too.
