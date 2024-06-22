@@ -1,2 +1,2 @@
 User-Agent: *
-Sitemap: https://gooberverse.net/sitemap.xml
+Sitemap: https://www.gooberverse.net/sitemap.xml
