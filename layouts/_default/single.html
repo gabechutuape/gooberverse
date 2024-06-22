@@ -12,9 +12,24 @@
 <content>
   {{ .Content }}
 </content>
-<p>
-  {{ range (.GetTerms "tags") }}
-  <a href="{{ .Permalink }}" class="tag-link" >#{{ .LinkTitle }}</a>
-  {{ end }}
-</p>
+<div class="content-container">
+
+  <div class="tags">
+    {{ range (.GetTerms "tags") }}
+      <a href="{{ .Permalink }}" class="tag-link" >#{{ .LinkTitle }}</a>
+    {{ end }}
+  </div>
+
+  <div class="right-align">
+    {{ $pages := where .Site.RegularPages.ByDate "Type" "blog" }}
+    {{ with $pages.Next . }}
+      <a href="{{ .RelPermalink }}"><<</a>
+    {{ end }}
+
+    {{ with $pages.Prev . }}
+      <a href="{{ .RelPermalink }}">>></a>
+    {{ end }}
+  </div>
+
+</div>
 {{ end }}

@@ -4,6 +4,7 @@ menu:
     main:
         title: Gooberverse
         name: home
+type: home
 ---
 
 # (almost) daily posts about things and such
