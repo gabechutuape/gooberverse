@@ -1,10 +1,10 @@
 ---
-title: Gooberverse
+title: gooberverse
 menu:
     main:
-        title: Gooberverse
+        title: gooberverse
         name: home
-type: home
+type: gooberverse
 ---
 
 # (almost) daily posts about things and such
