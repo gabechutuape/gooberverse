@@ -10,6 +10,8 @@ description: what's going on right now?
 
 # what am i up to?
 
+inspired by [nownownow.com](https://nownownow.com/about).
+
 right now, i am
 * living in Illinois and enjoying the company of local, good friends
 * writing software for [infrared cameras](https://www.episensors.us/)
