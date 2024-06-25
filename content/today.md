@@ -1,67 +1,96 @@
 ---
-title: pictures and photography
+title: final fantasy xiv
 menu:
     main:
-        title: pictures and photography
+        title: final fantasy xiv
         name: today
 type: today
-date: 2024-06-24
+date: 2024-06-25
 description: hopefully today's post
 tags: [
-    "photography",
-    "photoshop",
-    "thoughts"
+    "gaming",
 ]
 ---
 
-we all go on random youtube binges right?\
-the ones where it's a topic that you've briefly touched in the past,\
-and you never got fully into but seemed interesting at the time.
+i used to play a lot of final fantasy xiv, the MMORPG of the final fantasy series.\
+i got into it back in 2020 when my senior at UIUC, jared, invited me to play with him.\
+he was trying to rope as many people as he possibly could into the game\
+because, unsurprisingly, MMOs are a lot more fun with good friends to play with.
 
-one of those for me is professional photography.\
-as someone who has done a fairly minimal amount of research into the\
-more detailed parts of the workflow of it all,\
-f numbers, apertures, shooting speeds, lens sizes, digital and film,\
-i can confidently say it sounds like an absolute **pain in the ass** to get into.
+i humored him on the idea because in my childhood and elementary school years,\
+i loved playing korean MMOs like FlyFF and MapleStory, grinding levels all night.\
+i also think i wanted to prove him wrong; he kept bragging about how "fun" the game was.\
+it seemed like an entertaining investment of my free time in my university years.
 
-it's definitely a hobby where people who do it for "the love of the game" thrive,\
-and people who pick it up for a gimmick simply stare in awe (maybe like me?)\
-cause i mean, come on, [it looks so cool, right?](https://old.reddit.com/r/analog/comments/yhnkh8/kodak_ultra_f9_kodak_gold_200/)
+i never regretted putting all the 3,000 or so hours that i have in the game to this day,\
+and looking back on the journeys all my friends went through together as Hope's Dawn,\
+our reactions to the exciting and [emotional story cutscenes](https://ffxiv.consolegameswiki.com/wiki/The_Parting_Glass), all [the trailers](https://www.youtube.com/watch?v=4phUCJlomPo) we watched,\
+the [breathtaking music](https://www.youtube.com/watch?v=BFGw1RI0Kts), the [challenging raids](https://ffxiv.consolegameswiki.com/wiki/Eden%27s_Promise_(Savage)), and [just](/images/me-n-rink.png) [all](/images/first-raid.png) [the](/images/e9s.png) [time](/images/e10s.png) [we](/images/e11s.png) [shared](/images/e12s-clear.png),\
+i look back on the memories i have playing FFXIV very fondly.
 
-i spent some time this evening watching videos about the illustrious [Fujifilm cameras](https://www.youtube.com/watch?v=la6X2guptII),\
-who produce that dreamy filmlike look that i (and apparently a bunch of other people)\
-are all after nowadays for taking pictures of everyday life.
-
-unfortunately, Fujifilm cameras will run you an arm and a leg and your balls,\
-so those of us who aren't even beginner photographers who are chasing that look\
-should either pay up or shut up, it seems.
-
-in an outrage, i took this photo of my water bottle,\
-messed with random numbers in the "pro" mode of my phone camera,\
-and put some film grain, a white border, and a hazy-looking orange glowing date on it\
-and i ended up with this fine piece of art:
-
-| ![not a film photo](/images/not-film.png) | 
+| ![ffxiv screenshot of a dungeon](/images/hoh.png) | 
 |:--:| 
-| *shot with samsung galaxy s21 ultra + photoshop.* |
+| *when me, danny, adam, and juice cleared Heaven-on-High. i'm in the white coat.* |
 
-i actually don't think it looks terrible. but what do i know.\
-maybe i should just take more pictures with my phone and mess with the settings..\
-it is quite an expensive piece of technology after all.
+yeah,\
+in those days when i was raiding and everyone was progressing through the story,\
+it felt like something new was happening every day on the server and it was like\
+i was rushing to log on to play so that i wouldn't fall behind in my own way.
 
-also, it seems in the world of cameras, everyone has an opinion in the worst way..\
-it makes it quite difficult to feel comfortable making a single decision on what to buy.\
-"this one"? or "that one"? all with parameters you could spend all day discussing..
+but after finishing the MSQ for the most recent expansion, Endwalker,\
+i stopped playing the game as much. (´-ι_-｀)
 
-i guess photography is actually a good hobby to get into\
-if you want to train your ability to stop listening to other peoples' opinions.\
-which is quite cynical of me, but it's how i feel right now about it.
+i just didn't feel a need or a desire to really push myself to do the content.\
+after i graduated college, there was this force i felt to do things that,\
+i guess sort of felt more productive than playing this MMORPG,\
+like [reading books](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299), working out, doing stuff in real life..
 
-i can imagine one day i'll purchase a nice cheap [point-and-shoot camera](https://www.amazon.com/Kodak-Ultra-35mm-Film-Camera/dp/B09GNDY144)\
-with [film](https://www.amazon.com/Kodak-Ultramax-Color-Print-135-36/dp/B004R4N2B4) that i send to some faraway lab to develop and send scans from.\
-maybe i'll even post the results here! perhaps look forward to it.
+but as we lead up to the release of the next expansion, Dawntrail, in just a few days,\
+i got back into playing the game so that i could do some content that i hadn't done\
+but wanted to do for a while (even though it's been out for two years already..)
+
+i wasn't super excited to go back to playing.\
+there were times when i had come back between the ending of 6.0 up to today (patch 6.55)\
+where i tried playing [some post-endwalker stuff](https://ffxiv.consolegameswiki.com/wiki/Pand%C3%A6monium) and i just couldn't get into it at all..
+
+at those times, i had even wondered to myself\
+"how the heck did i spend so much time on this game..?"
+
+but i decided that now was the time! Dawntrail was going to be out in just under a week,\
+and i thought, "i had better clear this content before the new expansion comes out\
+and everyone else has moved on to bigger and better things!"
+
+the content was the Endwalker alliance raid series, Myths of the Realm,\
+where, when fighting Nald'Thal, I heard the song [In the Balance](https://www.youtube.com/watch?v=nih4x5hv89Q) for the first time.\
+and i was taken away by how amazingly catchy it was! (stoke now, nascent flame~)
+
+i actually went with my guildmates to [FFXIV Fan Festival 2023 in Las Vegas](https://youtu.be/nXHlSHMLAVI),\
+and apparently we heard this song live, but i didn't recognize it because i hadn't\
+done the alliance raid until now, almost a year later (damn it, me!).
+
+i felt myself getting more and more invested into the story of the alliance raid,\
+and as it all concluded after all those boss fights, and there was nothing left to do,\
+for the first time in two years i thought to myself,\
+**"ah.."**\
+**"i can't wait to play more."**
+
+| ![ffxiv screenshot of my character](/images/wow.png) | 
+|:--:| 
+| *my in-game character. but really, how i felt being excited to play again.* |
+
+one of my favorite things about FFXIV is the developer team.\
+and i'm paraphrasing them a bit, but they designed the game with the intention\
+that [players would take breaks every now and then](https://old.reddit.com/r/ffxiv/comments/517ql0/a_player_asks_on_how_to_maintain_motivation_and/) and come back to Eorzea\
+when they really, truly felt like playing it and enjoying the game again.
+
+so i guess what i'm trying to say is,\
+try your best not to forget what you put your time into.\
+it's rude to the you from back then.
 
 thank you for reading today's post.\
-let's not even get started on filming videos..
+i hope you have a chance to rekindle your passion for something from your past as well.
+
+
+
 
 
