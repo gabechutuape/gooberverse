@@ -79,9 +79,22 @@ for the first time in two years i thought to myself,\
 | *my in-game character. but really, how i felt being excited to play again.* |
 
 one of my favorite things about FFXIV is the developer team.\
-and i'm paraphrasing them a bit, but they designed the game with the intention\
-that [players would take breaks every now and then](https://old.reddit.com/r/ffxiv/comments/517ql0/a_player_asks_on_how_to_maintain_motivation_and/) and come back to Eorzea\
-when they really, truly felt like playing it and enjoying the game again.
+and [producer and director of FFXIV, Naoki Yoshida, once said](https://old.reddit.com/r/ffxiv/comments/517ql0/a_player_asks_on_how_to_maintain_motivation_and/):
+
+> "It's alright not to play it everyday.\
+> Since it's just a game, \
+> you can stop forcing yourself if it's hard on you to keep that up.\
+> Rather, it'll just pile up unnecessary stress\
+> if you limit yourself into playing just that one game\
+> since there are so many other games out there.\
+> So, do come back and play it to your heart's content\
+> when the major patch kicks in,\
+> then stop it to play other games before you got burnt out,\
+> and then come back for another major patch.\
+> This will actually make me happier, and in the end,\
+> I think this is the best solution I can answer\
+> for keeping your motivation up for the game."
+
 
 so i guess what i'm trying to say is,\
 try your best not to forget what you put your time into.\
