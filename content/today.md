@@ -94,7 +94,7 @@ i just used the damn coffee maker at work and drank it with CoffeeMate creamer.
 
 | ![work coffee machine](/images/bloomfield.png) | 
 |:--:| 
-| *a picture i found on google of the old-ass coffee machine we have at work.* |
+| *the old-ass Koffee King we have at work.* |
 
 but my journey didn't end there.
 
