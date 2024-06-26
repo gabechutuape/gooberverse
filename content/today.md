@@ -1,109 +1,144 @@
 ---
-title: final fantasy xiv
+title: my coffee journey
 menu:
     main:
-        title: final fantasy xiv
+        title: my coffee journey
         name: today
 type: today
-date: 2024-06-25
+date: 2024-06-26
 description: hopefully today's post
 tags: [
-    "gaming",
+    "habits",
+    "thoughts",
 ]
 ---
 
-i used to play a lot of [final fantasy xiv](https://na.finalfantasyxiv.com/), the MMORPG of the final fantasy series.\
-i got into it back in 2020 when my senior at UIUC, jared, invited me to play with him.\
-he was trying to rope as many people as he possibly could into the game\
-because, unsurprisingly, MMOs are a lot more fun with good friends to play with.
+last year in January, i decided that i needed an addiction.
 
-i humored him on the idea because in my childhood and elementary school years,\
-i loved playing korean MMOs like FlyFF and MapleStory, grinding levels all night.\
-i also think i wanted to prove him wrong; he kept bragging about how "fun" the game was.\
-it seemed like an entertaining investment of my free time in my university years.
+a new one, not just the usual childish addictions like videogames and anime.
 
-i never regretted putting all the 3,000 or so hours that i have in the game to this day,\
-and looking back on the journeys all my friends went through together as Hope's Dawn,\
-our reactions to the exciting and [emotional story cutscenes](https://ffxiv.consolegameswiki.com/wiki/The_Parting_Glass), all [the trailers](https://www.youtube.com/watch?v=4phUCJlomPo) we watched,\
-the [breathtaking music](https://www.youtube.com/watch?v=BFGw1RI0Kts), the [challenging raids](https://ffxiv.consolegameswiki.com/wiki/Eden%27s_Promise_(Savage)), and [just](/images/me-n-rink.png) [all](/images/first-raid.png) [the](/images/e9s.png) [time](/images/e10s.png) [we](/images/e11s.png) [shared](/images/e12s-clear.png),\
-i look back on the memories i have playing FFXIV very fondly.
+no, i needed an *adult* addiction that was so powerful that it carries with it\
+an air of haughtiness that blows away all who dare question its validity.
 
-| ![ffxiv screenshot of a dungeon](/images/hoh.png) | 
+so i decided to get into coffee.
+
+i decided to get into making pour-over coffee at home for a few reasons:
+1. coffee people are easy for people to give gifts to
+2. making coffee every morning is a great way to build a habit routine
+3. having a taste for coffee makes you seem like a cultured person
+
+i was going to do it: i was gonna be a coffee guy.\
+"a roast from Colombia? i actually prefer Guatemalan blends",\
+i would say brazenly and triumphantly, surely to the respect of my peers.
+
+and i was definitely not going to use ANY kind of sweetener,\
+lest i ruin the epic sanctity of the art of the brew.
+
+my older brother helped me get started; as a coffee person himself,\
+he had gear at our house that i could use while he was away,\
+namely, his [hario v60 dripper](https://www.amazon.com/Hario-Plastic-Coffee-Dripper-Clear/dp/B0BWHKPCLJ) and [filters](https://www.amazon.com/HARIO-02-White-Paper-Filter/dp/B07DTR9N26), and a ceramic grinder.
+
+he also gave me a single video, maybe one of the most legendary youtube videos\
+about coffee of all time: [James Hoffman's V60 brewing recipe guide](https://www.youtube.com/watch?v=1oB1oDrDkHM).\
+i watched it, wrote down the recipe, and eagerly made a cup of coffee\
+every day before work immediately after waking up, at 5:30AM.
+
+| ![coffee cup](/images/coffee.png) | 
 |:--:| 
-| *when me, danny, adam, and juice cleared Heaven-on-High. i'm in the white coat.* |
+| *january 18th, 2023: one of the first cups i ever made.* |
 
-yeah,\
-in those days when i was raiding and everyone was progressing through the story,\
-it felt like something new was happening every day on the server and it was like\
-i was rushing to log on to play so that i wouldn't fall behind in my own way.
+i spent a few months buying beans from [different](https://revelatorcoffee.com/) [roasteries](https://catandcloud.com/) [online](https://onyxcoffeelab.com/),\
+as well as trying recommendations from my cousin and brother,\
+all while writing down my taste perceptions in [a journal that i bought just for coffee](https://www.1101.com/store/techo/en/2023/pc/detail_cover/wb23_tnm/).
 
-but after finishing the MSQ for the most recent expansion, Endwalker,\
-i stopped playing the game as much. (´-ι_-｀)
+as my journey continued, i felt i needed more control over the brewing process,\
+and so i ended up buying more expensive gear: 
+- [a better digital scale](https://www.amazon.com/gp/product/B0BBVNSBXN)
+- [a more consistent stainless steel grinder](https://www.amazon.com/gp/product/B09DS4HVRQ)
+- the legendary [Fellow Stagg](https://www.amazon.com/Fellow-Electric-Pour-over-Temperature-Stopwatch/dp/B077JBQZPX), a gooseneck kettle
+ 
 
-i just didn't feel a need or a desire to really push myself to do the content.\
-after i graduated college, there was this force i felt to do things that,\
-i guess sort of felt more productive than playing this MMORPG,\
-like [reading books](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299), working out, doing stuff in real life..
+i even bought some [double-walled mugs](https://www.amazon.com/Bodum-Bistro-Coffee-Ounce-2-Pack/dp/B00E2RU5TS) to really get a good look at my work.\
+all in all, my coffee setup was nearing the $600 range: quite a nice set of kit.
 
-but leading up to the release of the next expansion, Dawntrail, in just a few days,\
-i got back into playing the game so that i could do some content that i hadn't done\
-but wanted to do for a while (even though it's been out for two years already..)
+but by the time autumn that year rolled around, something changed:\
+i wasn't super happy about the coffee i was making anymore.
 
-i wasn't super excited to go back to playing.\
-there were times when i had come back between the ending of 6.0 up to today (patch 6.55)\
-where i tried playing [some post-endwalker stuff](https://ffxiv.consolegameswiki.com/wiki/Pand%C3%A6monium) and i just couldn't get into it at all..
+what was once a fun experiment that i recorded in my neat little journal\
+became another chore to think about and to worry about.
 
-in those moments, i had even wondered to myself\
-"how the heck did i spend so much time on this game..?"
+every morning, my coffee journal entries felt the same:\
+"revelator: water temp 100c. grounds weight: 14.9g. score: 7.5.\
+bitter today, but nothing i'm not used to. quite aromatic."
 
-but i decided that it was now or never! Dawntrail was going to be out in a week,\
-and i thought, "i had better clear this content before the new expansion comes out\
-and everyone else has moved on to bigger and better things!"
+and every morning that i woke up late or didn't have time to make coffee\
+felt like a sting in what was supposed to be my efforts towards\
+proving to myself that i could build meaningful habits if i really tried.
 
-the content was the Endwalker alliance raid series, Myths of the Realm,\
-where, when fighting Nald'Thal, I heard the song [In the Balance](https://www.youtube.com/watch?v=nih4x5hv89Q) for the first time.\
-and i was taken away by how amazingly catchy it was! (stoke now, nascent flame~)
+not to mention, i was kind of expecting the caffeine to, oh i don't know,\
+help me feel more awake at work. but i guess i was expecting too much\
+of the poor beverage and [what little chance it had](https://www.wellandgood.com/coffee-first-thing-morning/) against my sleep schedule.
 
-i actually went with my guildmates to [FFXIV Fan Festival 2023 in Las Vegas](https://youtu.be/nXHlSHMLAVI),\
-and apparently we heard this song live, but i didn't recognize it because i hadn't\
-done the alliance raid until now, almost a year later (damn it, me!).
+it all just tasted more or less the same. it was scarcely eye-opening.\
+it definitely wasn't helping me feel more alert. as far as i was concerned,\
+the only thing it was definitely doing was stopping me from getting\
+a precious, **precious** extra 30 minutes of sleep.
 
-i felt myself getting more and more invested into the story of the alliance raid,\
-and as it all concluded after all those boss fights, and there was nothing left to do,\
-for the first time in two years i thought to myself,\
-**"ah.."**\
-**"i can't wait to play more."**
+and so, after enough missed days, i stopped writing in the journal,
 
-| ![ffxiv screenshot of my character](/images/wow.png) | 
+i stopped making coffee every morning at home,
+
+and i did what anyone else would do in my situation:
+
+i just used the damn coffee maker at work and drank it with CoffeeMate creamer.
+
+| ![work coffee machine](/images/bloomfield.png) | 
 |:--:| 
-| *my in-game character. but really, how i felt being excited to play again.* |
+| *a picture i found on google of the old-ass coffee machine we have at work.* |
 
-one of my favorite things about FFXIV is the developer team.\
-and [producer and director of FFXIV, Naoki Yoshida, once said](https://old.reddit.com/r/ffxiv/comments/517ql0/a_player_asks_on_how_to_maintain_motivation_and/):
+but my journey didn't end there.
 
-> "It's alright not to play it everyday.\
-> Since it's just a game, \
-> you can stop forcing yourself if it's hard on you to keep that up.\
-> Rather, it'll just pile up unnecessary stress\
-> if you limit yourself into playing just that one game\
-> since there are so many other games out there.\
-> So, do come back and play it to your heart's content\
-> when the major patch kicks in,\
-> then stop it to play other games before you got burnt out,\
-> and then come back for another major patch.\
-> This will actually make me happier, and in the end,\
-> I think this is the best solution I can answer\
-> for keeping your motivation up for the game."
+after coming back from a trip to the Philippines in January 2024,\
+i was enlightened by the coffee i was served on Korean Airlines:\
+sweet yet roasty, that nice warm feeling, and a good size.
 
+my dad was similarly intrigued, so we looked up the most\
+popular korean coffee available, only to discover that it is quite common\
+to make instant coffee in korea in packets that already contain\
+coffee grounds, sugar, and creamer: **a 3-in-1 combo of excellence**.
 
-so i guess what i'm trying to say is,\
-try your best not to forget what you put your time into.\
-it's rude to the you from back then.
+after exploring the most popular brand, Maxim, and its selection,\
+i landed on their [Supreme Gold blend](https://www.amazon.com/MAXIM-SUPREME-GOLD-COFFEE-100pks/dp/B09Z7GKT1Q) as my preferred blend in the mornings.\
+i still recommend it to people if they ask me about coffee.
+
+a single packet makes a latte size (around 3oz of water) drink,\
+and it's not a bitter piece of shit like the coffee i was making.\
+it's actually yummy. i look forward to drinking them.
+
+was i just another sod who fell into the trap of addictive sugars\
+and convenience, as opposed to someone who found the beauty in\
+honing your craft and striving for the perfect cup?
+
+wasn't i supposed to get an appreciation for the finer things,\
+and stand above the masses who lazily resigned themselves to their\
+[generic, cultureless, devoid-of-soul morning brews](https://athome.starbucks.com/products/pike-place-roast-ground)?
+
+well, sorry, but i didn't. and i'm damn proud of it.\
+i was being vapid and naive about "taste" and "culture".\
+to be honest, i don't feel like i'm missing out on shit.
+
+maybe i wasted my time exploring coffee, or maybe i was totally just brewing wrong,\
+and maybe i'm a fool for ending up right back at the top of the coffee iceberg\
+after all that effort of trying beans, recipes, water filtration, and grind sizes.
+
+| ![coffee iceberg](/images/coffee-iceberg.png) | 
+|:--:| 
+| *at the peak of my hubris, i made it all the way to "hates channeling."* |
+
+i'm ultimately glad to have had the experience of making my own coffee at home,\
+because i can confidently say that i'm happy with where i ended up at the end:
+
+as a person who just wants a yummy cup in the morning that's easy to make.
 
 thank you for reading today's post.\
-i hope you have a chance to rekindle your passion for something from your past as well.
-
-
-
-
-
+better to have loved and lost than to have never loved at all.. right?
