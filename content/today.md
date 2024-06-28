@@ -45,4 +45,4 @@ most people would agree all of it is pretty cringe to be honest, but well..\
 i decided it's easier to not fight it. not like i'm bothering anyone, right?
 
 thank you for reading today's post.\
-..come on, don't look at me like that. we're all at least a *little* cringe in our own ways.
+..come on, don't look at me like that.
