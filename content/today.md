@@ -5,11 +5,12 @@ menu:
         title: waiting in line
         name: today
 type: today
-date: 2024-07-01
+customDate: 2024-07-01
 description: hopefully today's post
 tags: [
     "thoughts",
 ]
+draft: false
 ---
 
 waiting in line is a divisive topic in my experience.

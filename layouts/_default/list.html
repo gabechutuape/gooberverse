@@ -7,12 +7,12 @@
   </small>
   {{ end }}
   <ul class="blog-posts">
-    {{ range .Pages }}
+    {{ range sort .Pages "Params.customDate" "desc" }}
     <li>
       <span>
         <i>
-          <time datetime='{{ .Date.Format "2006-01-02" }}' pubdate>
-            {{ .Date.Format (default "02 Jan, 2006" .Site.Params.dateFormat) }}
+          <time datetime="{{ dateFormat "2006-01-02" (index .Params "customDate") }}" pubdate>
+            {{ dateFormat (default "02 Jan, 2006" .Site.Params.dateFormat) (index .Params "customDate") }}
           </time>
         </i>
       </span>
