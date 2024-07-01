@@ -44,7 +44,7 @@ among other disgraceful acts of conduct or general bothersome attitudes.
 
 it was a great read. i recommend it.
 
-thank you for reading today's post.
+thank you for reading today's post.\
 actually, since i'm waiting in queue, this is a good chance to do my laundry..
 
 
