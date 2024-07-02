@@ -8,7 +8,7 @@ type: today
 customDate: 2024-07-02
 description: hopefully today's post
 tags: [
-    "thoughts",
+    "keyboards",
 ]
 draft: false
 ---
