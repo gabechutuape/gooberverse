@@ -35,5 +35,5 @@ begins with a single step.
 and in order to reach the promised land of the Saturdays,\
 we must first tolerate monday.
 
-thanks for reading today's post.
+thanks for reading today's post.\
 this week, let's all strive to take the first step.
