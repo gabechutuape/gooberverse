@@ -8,8 +8,9 @@ type: today
 customDate: 2024-07-16
 description: hopefully today's post
 tags: [
-    "thoughts",
-
+    "photography",
+    "lightroom",
+    "photoshop",
 ]
 draft: false
 ---
