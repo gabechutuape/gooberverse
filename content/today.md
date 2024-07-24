@@ -1,11 +1,11 @@
 ---
-title: making purchases worth it
+title: doing laundry
 menu:
     main:
-        title: making purchases worth it
+        title: doing laundry
         name: today
 type: today
-customDate: 2024-07-23
+customDate: 2024-07-24
 description: hopefully today's post
 tags: [
     "thoughts",
@@ -13,43 +13,36 @@ tags: [
 draft: false
 ---
 
-how easy is it for you to say it was "worth it" when you buy something?
+what do you think of doing laundry?
 
-do you spend your money on things that have dubious practicality,\
-or otherwise applicability in your life?
+i know some people who can't stand laundry,\
+and they need their s/o or somebody else to do it for them,\
+or they will otherwise do it with great mental stress.
 
-i'm going through a pretty heavy mirrorless camera research phase..\
-if this sounds interesting, please [look forward to the results](https://www.flickr.com/photos/201072478@N07/)!
+for me, laundry is kind of relaxing.
 
-but to the point, i rented a Fujifilm X-T30II for the duration of 7 days,\
-and almost convinced myself to buy the X-T50 before the X-T30II had even arrived!
+it's nice to set things and forget them,\
+come back later,\
+and see that they've made progress.
 
-> in general, i heard renting cameras is the right way to go\
-> when it comes to finding out what you like in a body and ergonomics.\
-> you definitely don't want to buy something you're not going to use, after all.
-
-the X-T30II is surely a camera that's worth my time if i'm interested in its successor,\
-so it would be rude to not give it a fair chance anyways.
-
-| ![a potted orchid outside](https://live.staticflickr.com/65535/53874831114_ca8137326b_b.jpg) | 
+| ![laundry strewn across a couch](/images/laundry.png) | 
 |:--:| 
-| *a picture of an orchid my mom wanted me to take. shot with x-t30ii.* |
+| *laundry day for my parents. shot with x-t30ii, portra 400v2 by fujixweekly.* |
 
-what a waste of my rental money it would have been if i had gone through with it, huh?\
-.. or would it have been a waste?
+i also think there is a quiet respite to be found\
+in the time we spend folding laundry.
 
-i'm not sure i'm convinced many things are wastes at all.\
-i think a lot of things feed into decisions that seem apropos of nothing,\
-least certainly of all the exact thing you suspect will have no bearing on it.
+nobody expects anything of you when you're folding laundry,\
+and your time is all your own when you're doing it, in a way.
 
-in my case, if i had pulled the trigger,\
-the rental money i spent despite probably not ending up using it\
-for the full "worth it" duration of 7 days,\
-would mentally be allocated to the conviction of soul i made in making the other decision.
+there are other things that make me feel this way,\
+like being up at 3am, or on a late night drive outside,\
+or being alone doing something.
 
-i might be overthinking it.\
-it could be easier to call it a waste.\
-but it's a little more fun to think of it in this way, i think.
+it's quite liberating to not be on anybody else's schedule.\
+and for as much as i enjoy making the most of the time i have\
+with the people i care the most about,\
+that time of peace, laundry day, is just as important.
 
 thank you for reading today's post.\
-..a rewards deal that expires today? well, better not let it go to waste!
+my laundry machines play a jingle when they finish. i like it!
