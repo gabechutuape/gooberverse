@@ -1,45 +1,54 @@
 ---
-title: pets have regen properties
+title: in spite of logic
 menu:
     main:
-        title: pets have regen properties
+        title: in spite of logic
         name: today
 type: today
-customDate: 2024-08-11
+customDate: 2024-08-12
 description: hopefully today's post
 tags: [
     "thoughts",
+    "gaming",
 ]
 draft: false
 ---
 
-when the chips are down, a cat can change it all.
+you ever do something you know you shouldn't be doing?
 
-i've been taking trips to take care of\
-my brother's cat recently while he's away.
+i'm currently playing through Final Fantasy VII Rebirth,\
+a game with over a hundred hours of content inside,\
+but also holding the capability to be finished in under 30 hours.
 
-i have to drive 30 minutes there and back (1hr total),\
-so it's a little annoying when i'm on the way there,\
-thinking about how i have -1hr minimum in my day.
+my reason for playing this game is because i have a concert\
+for the FFVII Rebirth Orchestra this saturday the 17th\
+wherein spoilers for the game will be shown.
 
-but then, i see the cat.
+therefore, i need to complete the game as fast as possible\
+to make sure that my playing experience remains spoiler-free.
 
-| ![the ikea flags](https://live.staticflickr.com/65535/53917077791_88c6e663b3_b.jpg) | 
-|:--:| 
-| *sweetie on the countertop. shot with fuji x-t50.* |
+that being said, i have been undertaking some annoying\
+yet intriguing distractions along the way in the game.
 
-and suddenly, all the worries of time that i have\
-melt away, straight into her black fur.
+this is the part of the post where i would normally\
+summon some scheme of logic that combats these impulsive desires,\
+and yet today.. i find myself at a loss.
 
-i always underestimate how much being with a cat\
-can give a relaxing, calming air.
+in general, i would say that these situations\
+exist in spite of logic, driven largely by emotion,\
+but serve a unique, if subversive, purpose of their own.
 
-i reckon someday i would like to own a cat of my own.\
-to own an animal and to care for an animal of course,\
-are two very different things, and you should be prepared for the full job.
+i spent nearly an hour doing an optional fight for meagre rewards\
+save bragging rights and the feeling of triumph.\
+and i am now, plainly, an hour behind schedule.
 
-someday, though.
+i guess in moments like these,\
+despite not being closer to the original goal,
+
+i take solace in the fact
+that the time i spend enjoying myself\
+is time not wasted at all.
 
 thanks for reading today's post.\
-isn't she just adorable?
+i can do this.. i can do this..
 
