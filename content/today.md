@@ -16,7 +16,7 @@ draft: false
 today i went on a walk on the grounds near my workplace and took photos.\
 i'd like to share a few here. take a look!
 
-| ![Airgas tank]https://live.staticflickr.com/65535/53921808504_142a47a0e6_b.jpg) | 
+| ![Airgas tank](https://live.staticflickr.com/65535/53921808504_142a47a0e6_b.jpg) | 
 |:--:| 
 | *An Airgas liquid nitrogen tank. shot with fuji x-t50.* |
 
