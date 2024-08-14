@@ -52,3 +52,16 @@ ignoreErrors = ["error-disable-taxonomy"]
   # dateFormat = "2006-01-02"
   # titleCaseStyle = "none"
   enableFuture = true
+
+[services]
+  [services.rss]
+    limit = 7
+
+# Output RSS Feed
+[outputs]
+  home = ['html', 'rss']
+  page = ['html', 'rss']
+  rss = ['rss']
+  section = ['html', 'rss']
+  term = ['html', 'rss']
+
