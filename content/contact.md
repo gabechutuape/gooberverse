@@ -1,8 +1,8 @@
 ---
-title: contact me
+title: contact
 menu:
     main:
-        title: contact me
+        title: contact
         name: contact
 type: contact
 description: how to contact me
