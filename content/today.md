@@ -5,7 +5,7 @@ menu:
         title: the hidden cost of transitions
         name: today
 type: today
-customDate: 2024-08-23
+customDate: 2024-08-24
 description: hopefully today's post
 tags: [
     "thoughts",
@@ -23,7 +23,8 @@ for example, i don't know about you, but as a human i try to do things in neat c
 to remedy this, i've been practicing jumping into things without particularly any thought. this isn't anything new, i think i grifted this from an instagram reel from a productivity account: "minimize transition time between activities." but i'm absolutely the type to lose 15 minutes here, 15 minutes there scrolling my phone after getting home, before starting something, before going to bed, etc. 
 
 i invite you also to heed the words of stanley yelnats,
-> just do it.
+
+> just do it.\
 > -shia labeouf
 
 thanks for reading today's post.\
