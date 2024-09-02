@@ -5,7 +5,7 @@ menu:
         title: changing seasons
         name: today
 type: today
-customDate: 2024-08-31
+customDate: 2024-09-01
 description: hopefully today's post
 tags: [
     "thoughts",
