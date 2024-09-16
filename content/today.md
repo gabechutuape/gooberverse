@@ -1,44 +1,39 @@
 ---
-title: au cheval chicago
+title: recirculation road
 menu:
     main:
-        title: au cheval chicago
+        title: recirculation road
         name: today
 type: today
-customDate: 2024-09-14
+customDate: 2024-09-15
 description: hopefully today's post
 tags: [
     "thoughts",
-    "food",
 ]
 draft: false
 ---
 
-if you're in the Chicagoland area,\
-i would recommend getting a burger from Au Cheval.
+you ever have to pick someone up from the airport?
 
-they're a michelin-star restaurant that serves\
-specifically diner fare, but make it *gourmet*.
-
-they're best known for their burgers which feature\
-a sunny-side up egg, as well as their garlic aioli.
-
-i took a neat picture of a spotlight at our table\
-that had a glass of water and some cutlery.
-
-| ![au cheval cutlery and water glass](https://live.staticflickr.com/65535/53996018343_0e2a5ae513_b.jpg) | 
+| ![airport skywalk](https://live.staticflickr.com/65535/53997128392_ac0067b98a_b.jpg) | 
 |:--:| 
-| *i forgot to take a picture of the actual burger. shot with Fujifilm x-t50.* |
+| *skywalk near o'hare terminal 1 arrivals. shot with Fujifilm X-T50.* |
 
-the place doesn't take reservations, so you have to wait\
-anywhere from 15 minutes to an hour and a half to get in.
+are you the kind of person who spins the block via recirculation road\
+or do you just get parking and eat the $2-$5 cost of using it\
+for less than an hour and then leaving?
 
-but i kind of like it that way.\
-it keeps the place honest to the everyman, i think.
+when i'm picking someone up who i know is quite punctual,\
+i'll spin the block and do loops for a while.
 
-if you end up going, absolutely get it with an egg.\
-their bacon is thickly sliced pork belly, but the applewood finish\
-is excellent. i would only get it every other time.
+but if it's someone like a further away family friend,\
+i'll just park and sit in the airport lobby and read a book.
+
+i find it kind of relaxing to be around the airport.\
+it's cozy in that weird liminal sense of transience it has.
+
+so anyway, yeah. today i picked up my cousin from the airport.
 
 thanks for reading today's post.\
-the crispy fries are great too!
+maybe men were never meant to take to the skies..
+
