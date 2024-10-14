@@ -1,37 +1,46 @@
 ---
-title: a song you can't name
+title: theoretical and practical
 menu:
     main:
-        title: a song you can't name
+        title: theoretical and practical
         name: today
 type: today
-customDate: 2024-10-12
+customDate: 2024-10-13
 description: hopefully today's post
 tags: [
     "thoughts",
-    "music",
 ]
 draft: false
 ---
 
-on the tip of your tongue..
+in the world of Warhammer 40k,\
+there is a man called Roboute Guilliman.\
+(pronounced roo-boot, gill-ih-man)
 
-we've all been there, where you have\
-an earworm in your brain but you can't\
-place the name of the song.
+Guilliman is a master strategist and leader of men,\
+revered for his universal pragmatism and resourcefulness.
 
-today, i had that with [this track](https://www.youtube.com/watch?v=5XP2XDR7hr0) from\
-final fantasy xiv, which has very "the end"\
-vibes to it. but it sounds a lot like something\
-that could easily be in ff7, or even an anime.
+one of his famed thought practices is the\
+"theoretical, practical" approach to problem-solving.
 
-luckily my friend recognized it when i hummed it\
-so i was spared the mental anguish from\
-not knowing it.
+the process goes like this: state a problem you have\
+as the "theoretical". then, name states of reality or\
+solutions pertaining to the problem that you can accomplish.
 
-so basically, bother everyone you know\
-when you can't remember the name of a song.\
-someone is bound to know it.
+for example:\
+theoretical: i need to take a shit.\
+practical: i can go to the bathroom.\
+practical: i can shit my pants.\
+practical: i can defer this task by holding it in.
+
+by listing out your options in a clear format,\
+you gauge the possibilities without entertaining\
+ideas that are simply impossible (i refuse to take a shit).
+
+it's not particularly outstanding or anything,\
+i think most humans do this automatically.\
+but it's a neat little thing that they have in 40K\
+that just sounds cool. *theoretical. practical.*
 
 thanks for reading today's post.\
-so satisfying..
+practical: i should go to sleep to be rested for work tomorrow.
