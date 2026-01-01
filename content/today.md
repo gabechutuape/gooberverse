@@ -1,11 +1,11 @@
 ---
-title: when do we celebrate
+title: up and down
 menu:
     main:
-        title: when do we celebrate
+        title: up and down
         name: today
 type: today
-customDate: 2024-12-31
+customDate: 2026-01-01
 description: hopefully today's post
 tags: [
     "thoughts",
@@ -13,30 +13,20 @@ tags: [
 draft: false
 ---
 
-do you celebrate on new years?\
-or on new years eve only?\
-maybe both?
+the cyclical nature of life can be amusing.
 
-it's a bit confusing to me.\
-we called off meeting for raid today\
-because people would be preparing stuff for new year's eve,\
-which kinda makes sense. there's stuff to do\
-specifically at midnight of course.
+which sounds extremely unemployed, but despite everything, i am actually still employed.
 
-but the rest of the day...?\
-what else could possibly be going on?\
-you're not going to work tomorrow,\
-that's for sure. it's a federal holiday, man.
+the amusing part of it is how right now i'm pretty sure i'm in a downturn, and yet\
+i have a good feeling that things will turn around pretty soon..\
+not for any reason that should be considered ominous. it's just hope.
 
-i dunno. maybe if i had someone to spend\
-the "day" with it would be a different story,\
-but from my perspective it's a pretty\
-pedestrian day and i think new year's itself should get\
-more credit. that being said, i'm all about\
-acknowledging the pieces that make the whole possible.\
-so new year's eve isn't terrible.
+when i first began doing things that were new to me,\
+what i learned was that small changes every day\
+add up to big things later on down the line.\
+you need to invest in order to build something worth it.
 
-i guess i just wish we raided.
+it's a lesson i'll spend the rest of my life learning.
 
 thanks for reading today's post.\
-always gaming on the mind, to the end of the year..
+the goal is just to keep it simple.
