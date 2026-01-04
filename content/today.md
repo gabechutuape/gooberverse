@@ -1,11 +1,11 @@
 ---
-title: and yet over and over
+title: up and down
 menu:
     main:
-        title: and yet over and over
+        title: up and down
         name: today
 type: today
-customDate: 2026-01-02
+customDate: 2026-01-01
 description: hopefully today's post
 tags: [
     "thoughts",
@@ -13,17 +13,20 @@ tags: [
 draft: false
 ---
 
-i'm pretty bad with my sleep schedule.
+the cyclical nature of life can be amusing.
 
-i think i've written about this one before
-but it bears repeating because it is so pervasive of a problem for me.
+which sounds extremely unemployed, but despite everything, i am actually still employed.
 
-how do you reconcile staying up because the rest of the world is up
-playing games and having fun
-with needing to be up the next day?
+the amusing part of it is how right now i'm pretty sure i'm in a downturn, and yet\
+i have a good feeling that things will turn around pretty soon..\
+not for any reason that should be considered ominous. it's just hope.
 
-at some point, something has to give.
-i wonder when that time will come for me.
+when i first began doing things that were new to me,\
+what i learned was that small changes every day\
+add up to big things later on down the line.\
+you need to invest in order to build something worth it.
 
-thanks for reading today's post.
-i'm strictly nocturnal.
+it's a lesson i'll spend the rest of my life learning.
+
+thanks for reading today's post.\
+the goal is just to keep it simple.
