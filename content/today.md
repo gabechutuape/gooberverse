@@ -1,11 +1,11 @@
 ---
-title: up and down
+title: any austin the video essayist
 menu:
     main:
-        title: up and down
+        title: any austin the video essayist
         name: today
 type: today
-customDate: 2026-01-02
+customDate: 2026-01-03
 description: hopefully today's post
 tags: [
     "thoughts",
@@ -13,20 +13,20 @@ tags: [
 draft: false
 ---
 
-the cyclical nature of life can be amusing.
+have you ever heard of [any austin](https://www.youtube.com/@any_austin)?
 
-which sounds extremely unemployed, but despite everything, i am actually still employed.
+he's a youtube video essayist who makes commenataries on video games about
+things that are outstandingly mundane, like power lines in GTA 5, hydrology, and unemployment surveys.
 
-the amusing part of it is how right now i'm pretty sure i'm in a downturn, and yet
-i have a good feeling that things will turn around pretty soon..
-not for any reason that should be considered ominous. it's just hope.
+i'm fascinated by his content. his cadence and pacing, especially, is
+uniquely captivating in its presentation. i've since exhausted his catalog of
+skyrim related videos, and found other skyrim video essayists EXTREMELY wanting.
 
-when i first began doing things that were new to me,
-what i learned was that small changes every day
-add up to big things later on down the line.
-you need to invest in order to build something worth it.
+something about them is just too nerdy to follow. any austin finds a great niche of
+making things that are boring seem quite interesting, and somehow, other essayists
+take things that should be interesting and make them somehow quite boring.
 
-it's a lesson i'll spend the rest of my life learning.
+a shame that i'm out of skyrim videos from him. but he has more.
 
 thanks for reading today's post.
-the goal is just to keep it simple.
+i especially like his unemployment surveys.
