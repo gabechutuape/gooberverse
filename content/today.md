@@ -40,5 +40,5 @@ i was falling asleep essentially mid-day.
 
 so... i'm gonna say that that's a good use of it.
 
-thanks for reading today's post.
+thanks for reading today's post.\
 i can still taste it, even now, over 12 hours later...
