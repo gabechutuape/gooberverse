@@ -1,8 +1,8 @@
 ---
-title: ghost: the devil's price
+title: the price of a ghost
 menu:
     main:
-        title: ghost: the devil's price
+        title: the price of a ghost
         name: today
 type: today
 customDate: 2026-01-08
